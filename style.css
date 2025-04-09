@@ -574,10 +574,14 @@ p {
   .nav-list {
     position: absolute;
     right: 100px;
-    bottom: 300px;
+    bottom: 170px;
   }
   .nav-list  li{
     margin-bottom: 50px;
+  }
+  .nav{
+    position: fixed;
+    top: 70px;
   }
 }
 .blog-content {
